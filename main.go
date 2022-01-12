@@ -20,6 +20,8 @@ func main() {
 	arr[2][1] = 8
 	arr[2][2] = 9
 
+
+	// ini komentar saya
 	for baris := 0; baris < max_baris; baris++ {
 		for kolom := 0; kolom < max_kolom; kolom++ {
 			fmt.Println(arr[baris][kolom])
